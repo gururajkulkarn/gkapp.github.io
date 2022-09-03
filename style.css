@@ -1,0 +1,2 @@
+* {padding: 0;margin: 0; font-family: 'Tiro Gurmukhi', serif;}.carousel-inner { width: 100%;height: 100%;}
+.card:hover {transform: scale(1, 1.2);transition: 1s;}
